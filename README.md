@@ -1,4 +1,4 @@
-<img src="C:\Users\Thiago Gabriel\Desktop\calculadora">
+<img src="screenshot.png">
 
 **Calculadora Simples HTML/JavaScript**
 
